@@ -1,3 +1,2 @@
 This is the first text file for the kii_domashno repo. 
 
-This are the changes that i am making for developer.
